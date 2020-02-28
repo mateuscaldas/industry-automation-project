@@ -24,4 +24,4 @@ The part of the connection with ManufacturerX was not made by me, that's this pa
 This project is developed is C#, the entire code was not made by me. The base code is taken from the official 
 platform of OPC-UA Foundation.
 
-![Scenario Image](/scenario.png)
+![Scenario Image](scenario.png)
