@@ -1,0 +1,24 @@
+C:\Users\lucaz\OneDrive\IPL\University\2.1 Year\Industry 4.0\Luis Perdigoto_LAB\UA-.NETStandard-master\SampleApplications\bin\Debug\App.ico
+C:\Users\lucaz\OneDrive\IPL\University\2.1 Year\Industry 4.0\Luis Perdigoto_LAB\UA-.NETStandard-master\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\MLQCClient.csprojAssemblyReference.cache
+C:\Users\lucaz\OneDrive\IPL\University\2.1 Year\Industry 4.0\Luis Perdigoto_LAB\UA-.NETStandard-master\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\Quickstarts.MLQCClient.exe.config
+C:\Users\lucaz\OneDrive\IPL\University\2.1 Year\Industry 4.0\Luis Perdigoto_LAB\UA-.NETStandard-master\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\Quickstarts.MLQCClient.Properties.Resources.resources
+C:\Users\lucaz\OneDrive\IPL\University\2.1 Year\Industry 4.0\Luis Perdigoto_LAB\UA-.NETStandard-master\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\MLQCClient.csproj.GenerateResource.cache
+C:\Users\lucaz\OneDrive\IPL\University\2.1 Year\Industry 4.0\Luis Perdigoto_LAB\UA-.NETStandard-master\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\MLQCClient.csproj.CopyComplete
+C:\Users\lucaz\OneDrive\IPL\University\2.1 Year\Industry 4.0\Luis Perdigoto_LAB\UA-.NETStandard-master\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\Quickstarts.MLQCClient.exe
+C:\Users\lucaz\OneDrive\IPL\University\2.1 Year\Industry 4.0\Luis Perdigoto_LAB\UA-.NETStandard-master\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\Quickstarts.MLQCClient.pdb
+C:\Users\lucaz\OneDrive\IPL\University\2.1 Year\Industry 4.0\Luis Perdigoto_LAB\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.MLQCClient.exe.config
+C:\Users\lucaz\OneDrive\IPL\University\2.1 Year\Industry 4.0\Luis Perdigoto_LAB\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.MLQCClient.exe
+C:\Users\lucaz\OneDrive\IPL\University\2.1 Year\Industry 4.0\Luis Perdigoto_LAB\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.MLQCClient.pdb
+C:\Users\lucaz\OneDrive\IPL\University\2.1 Year\Industry 4.0\Luis Perdigoto_LAB\UA-.NETStandard-master\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\Quickstarts.MLQCClient.MainForm.resources
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\App.ico
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.MLQCClient.exe.config
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.MLQCClient.exe
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.MLQCClient.pdb
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\MLQCClient.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\Quickstarts.MLQCClient.exe.config
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\Quickstarts.MLQCClient.MainForm.resources
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\Quickstarts.MLQCClient.Properties.Resources.resources
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\MLQCClient.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\MLQCClient.csproj.CopyComplete
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\Quickstarts.MLQCClient.exe
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\MLQCClient\obj\Debug\Quickstarts.MLQCClient.pdb

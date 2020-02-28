@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.myYRDBQueryClient.Config.xml
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\App.ico
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.myYRDBQueryClient.exe.config
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.myYRDBQueryClient.exe
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.myYRDBQueryClient.pdb
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQueryClient\obj\Debug\myYRDBQueryClient.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQueryClient\obj\Debug\Quickstarts.myYRDBQueryClient.exe.config
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQueryClient\obj\Debug\Quickstarts.myYRDBQueryClient.MainForm.resources
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQueryClient\obj\Debug\Quickstarts.myYRDBQueryClient.Properties.Resources.resources
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQueryClient\obj\Debug\myYRDBQueryClient.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQueryClient\obj\Debug\myYRDBQueryClient.csproj.CopyComplete
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQueryClient\obj\Debug\Quickstarts.myYRDBQueryClient.exe
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQueryClient\obj\Debug\Quickstarts.myYRDBQueryClient.pdb

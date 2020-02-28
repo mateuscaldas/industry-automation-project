@@ -1,0 +1,12 @@
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.ReferenceClient.Config.xml
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\bin\Debug\App.ico
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.ReferenceClient.exe.config
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.ReferenceClient.exe
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.ReferenceClient.pdb
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Client\obj\Debug\Quickstarts.ReferenceClient.exe.config
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Client\obj\Debug\Quickstarts.ReferenceClient.MainForm.resources
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Client\obj\Debug\Quickstarts.ReferenceClient.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Client\obj\Debug\Reference Client.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Client\obj\Debug\Reference Client.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Client\obj\Debug\Quickstarts.ReferenceClient.exe
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Client\obj\Debug\Quickstarts.ReferenceClient.pdb

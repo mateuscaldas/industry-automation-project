@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\EasyModbus.dll
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Opc.Ua.Di.PredefinedNodes.uanodes
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.myIMMControlServer.Config.xml
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\App.ico
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.myIMMControlServer.exe.config
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.myIMMControlServer.exe
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.myIMMControlServer.pdb
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myIMMControlServer\obj\Debug\myIMMControlServer.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myIMMControlServer\obj\Debug\Quickstarts.myIMMControlServer.exe.config
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myIMMControlServer\obj\Debug\Quickstarts.myIMMControlServer.MonitoredItemEventLogDlg.resources
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myIMMControlServer\obj\Debug\Quickstarts.myIMMControlServer.Properties.Resources.resources
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myIMMControlServer\obj\Debug\myIMMControlServer.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myIMMControlServer\obj\Debug\myIMMControlServer.csproj.CopyComplete
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myIMMControlServer\obj\Debug\Quickstarts.myIMMControlServer.exe
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myIMMControlServer\obj\Debug\Quickstarts.myIMMControlServer.pdb
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\myDiServerNodeManager.cs

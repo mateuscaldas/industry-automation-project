@@ -1,0 +1,13 @@
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.ReferenceServer.Config.xml
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\bin\Debug\App.ico
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.ReferenceServer.exe.config
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.ReferenceServer.exe
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.ReferenceServer.pdb
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Server\obj\Debug\Reference Server.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Server\obj\Debug\Quickstarts.ReferenceServer.exe.config
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Server\obj\Debug\Quickstarts.ReferenceServer.MonitoredItemEventLogDlg.resources
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Server\obj\Debug\Quickstarts.ReferenceServer.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Server\obj\Debug\Reference Server.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Server\obj\Debug\Reference Server.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Server\obj\Debug\Quickstarts.ReferenceServer.exe
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\UA-.NETStandard-master\SampleApplications\Workshop\Reference\Server\obj\Debug\Quickstarts.ReferenceServer.pdb

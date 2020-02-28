@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\bin\Debug\EasyModbus.dll
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\bin\Debug\Opc.Ua.Di.PredefinedNodes.uanodes
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.myModbus2OpcuaServer.Config.xml
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\bin\Debug\App.ico
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.myModbus2OpcuaServer.exe.config
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.myModbus2OpcuaServer.exe
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.myModbus2OpcuaServer.pdb
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myModbus2OpcuaServer\obj\Debug\myModbus2OpcuaServer.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myModbus2OpcuaServer\obj\Debug\Quickstarts.myModbus2OpcuaServer.exe.config
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myModbus2OpcuaServer\obj\Debug\Quickstarts.myModbus2OpcuaServer.MonitoredItemEventLogDlg.resources
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myModbus2OpcuaServer\obj\Debug\Quickstarts.myModbus2OpcuaServer.Properties.Resources.resources
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myModbus2OpcuaServer\obj\Debug\myModbus2OpcuaServer.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myModbus2OpcuaServer\obj\Debug\myModbus2OpcuaServer.csproj.CopyComplete
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myModbus2OpcuaServer\obj\Debug\Quickstarts.myModbus2OpcuaServer.exe
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myModbus2OpcuaServer\obj\Debug\Quickstarts.myModbus2OpcuaServer.pdb

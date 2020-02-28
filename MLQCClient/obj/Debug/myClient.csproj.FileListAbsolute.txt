@@ -1,0 +1,26 @@
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\Automação Inteligente e Indústria 4.0\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.myClient.Config.xml
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\Automação Inteligente e Indústria 4.0\UA-.NETStandard-master\SampleApplications\bin\Debug\App.ico
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\Automação Inteligente e Indústria 4.0\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.myClient.exe.config
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\Automação Inteligente e Indústria 4.0\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.myClient.exe
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\Automação Inteligente e Indústria 4.0\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.myClient.pdb
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\Automação Inteligente e Indústria 4.0\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\myClient.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\Automação Inteligente e Indústria 4.0\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\Quickstarts.myClient.exe.config
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\Automação Inteligente e Indústria 4.0\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\Quickstarts.myClient.MainForm.resources
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\Automação Inteligente e Indústria 4.0\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\Quickstarts.myClient.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\Automação Inteligente e Indústria 4.0\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\myClient.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\Automação Inteligente e Indústria 4.0\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\myClient.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\Automação Inteligente e Indústria 4.0\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\Quickstarts.myClient.exe
+C:\Users\Admin\OneDrive\Engenharia Elétrica\Mestrado em Portugal\3º Semestre\Automação Inteligente e Indústria 4.0\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\Quickstarts.myClient.pdb
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.myClient.Config.xml
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\bin\Debug\App.ico
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.myClient.exe.config
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.myClient.exe
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\bin\Debug\Quickstarts.myClient.pdb
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\myClient.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\Quickstarts.myClient.exe.config
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\Quickstarts.myClient.MainForm.resources
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\Quickstarts.myClient.Properties.Resources.resources
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\myClient.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\myClient.csproj.CopyComplete
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\Quickstarts.myClient.exe
+C:\Users\Admin\Documents\UA-.NETStandard-master\SampleApplications\Workshop\Reference\myClient\obj\Debug\Quickstarts.myClient.pdb

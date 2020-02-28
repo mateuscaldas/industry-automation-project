@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Opc.Ua.Di.PredefinedNodes.uanodes
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.myYRDBQuery.Config.xml
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\App.ico
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.myYRDBQuery.exe.config
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.myYRDBQuery.exe
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\bin\Debug\Quickstarts.myYRDBQuery.pdb
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQuery\obj\Debug\myYRDBQuery.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQuery\obj\Debug\Quickstarts.myYRDBQuery.exe.config
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQuery\obj\Debug\Quickstarts.myYRDBQuery.MonitoredItemEventLogDlg.resources
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQuery\obj\Debug\Quickstarts.myYRDBQuery.Properties.Resources.resources
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQuery\obj\Debug\myYRDBQuery.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQuery\obj\Debug\myYRDBQuery.csproj.CopyComplete
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQuery\obj\Debug\Quickstarts.myYRDBQuery.exe
+C:\Users\Admin\Documents\UA-.NETStandard-master1\SampleApplications\Workshop\Reference\myYRDBQuery\obj\Debug\Quickstarts.myYRDBQuery.pdb

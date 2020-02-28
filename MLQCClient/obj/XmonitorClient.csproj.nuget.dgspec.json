@@ -1,0 +1,457 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\Workshop\\Reference\\XmonitorClient\\XmonitorClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\Samples\\ClientControls.Net4\\UA Client Controls.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\Samples\\ClientControls.Net4\\UA Client Controls.csproj",
+        "projectName": "UA Client Controls",
+        "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\Samples\\ClientControls.Net4\\UA Client Controls.csproj",
+        "frameworks": {
+          "net46": {
+            "projectReferences": {
+              "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Client\\Opc.Ua.Client.csproj": {
+                "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Client\\Opc.Ua.Client.csproj"
+              },
+              "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Configuration\\Opc.Ua.Configuration.csproj": {
+                "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Configuration\\Opc.Ua.Configuration.csproj"
+              },
+              "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj": {
+                "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {}
+      }
+    },
+    "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Client\\Opc.Ua.Client.csproj": {
+      "version": "1.4.354-preview-20200122",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Client\\Opc.Ua.Client.csproj",
+        "projectName": "Opc.Ua.Client",
+        "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Client\\Opc.Ua.Client.csproj",
+        "packagesPath": "C:\\Users\\lucaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\.nuget\\NuGet.Config",
+          "C:\\Users\\lucaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46",
+          "netstandard1.3",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {
+              "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj": {
+                "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj"
+              }
+            }
+          },
+          "netstandard1.3": {
+            "projectReferences": {
+              "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj": {
+                "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj"
+              }
+            }
+          },
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj": {
+                "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard1.3": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Configuration\\Opc.Ua.Configuration.csproj": {
+      "version": "1.4.354-preview-20200122",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Configuration\\Opc.Ua.Configuration.csproj",
+        "projectName": "Opc.Ua.Configuration",
+        "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Configuration\\Opc.Ua.Configuration.csproj",
+        "packagesPath": "C:\\Users\\lucaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Configuration\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\.nuget\\NuGet.Config",
+          "C:\\Users\\lucaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46",
+          "netstandard1.3",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {
+              "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj": {
+                "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj"
+              }
+            }
+          },
+          "netstandard1.3": {
+            "projectReferences": {
+              "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj": {
+                "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj"
+              }
+            }
+          },
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj": {
+                "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard1.3": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\Workshop\\Reference\\XmonitorClient\\XmonitorClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\Workshop\\Reference\\XmonitorClient\\XmonitorClient.csproj",
+        "projectName": "XmonitorClient",
+        "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\Workshop\\Reference\\XmonitorClient\\XmonitorClient.csproj",
+        "packagesPath": "C:\\Users\\lucaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\Workshop\\Reference\\XmonitorClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\.nuget\\NuGet.Config",
+          "C:\\Users\\lucaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {
+              "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\Samples\\ClientControls.Net4\\UA Client Controls.csproj": {
+                "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\Samples\\ClientControls.Net4\\UA Client Controls.csproj"
+              },
+              "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Client\\Opc.Ua.Client.csproj": {
+                "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Client\\Opc.Ua.Client.csproj"
+              },
+              "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Configuration\\Opc.Ua.Configuration.csproj": {
+                "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\SampleApplications\\SDK\\Opc.Ua.Configuration\\Opc.Ua.Configuration.csproj"
+              },
+              "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj": {
+                "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "InfluxDB.LineProtocol": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj": {
+      "version": "1.4.354-preview-20200122",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj",
+        "projectName": "Opc.Ua.Core",
+        "projectPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\Opc.Ua.Core.csproj",
+        "packagesPath": "C:\\Users\\lucaz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\Stack\\Opc.Ua.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\lucaz\\OneDrive\\IPL\\University\\2.1 Year\\Industry 4.0\\Luis Perdigoto_LAB\\UA-.NETStandard-master\\.nuget\\NuGet.Config",
+          "C:\\Users\\lucaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46",
+          "netstandard1.3",
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          },
+          "netstandard1.3": {
+            "projectReferences": {}
+          },
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Server.Kestrel": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel.Https": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard1.3": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Server.Kestrel": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel.Https": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.4, )"
+            },
+            "System.Collections.NonGeneric": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Net.NameResolution": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Net.Websockets.Client": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            },
+            "System.Reflection.TypeExtensions": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "System.ServiceModel.Primitives": {
+              "target": "Package",
+              "version": "[4.5.3, )"
+            },
+            "System.Xml.XmlSerializer": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Server.Kestrel": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel.Https": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.4, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Net.NameResolution": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Net.Websockets.Client": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            },
+            "System.Reflection.TypeExtensions": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "System.ServiceModel.Primitives": {
+              "target": "Package",
+              "version": "[4.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
